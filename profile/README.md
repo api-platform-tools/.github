@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png"><br>
+  <img src="https://raw.githubusercontent.com/api-platform-tools/.github/master/profile/logo.png"><br>
 </p>
 
 Our goal is to create simple and easy to use libraries, bundles and tools to make it easier to use https://github.com/api-platform/api-platform.  
