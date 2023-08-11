@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png"><br>
+</p>
+
 Our goal is to create simple and easy to use libraries, bundles and tools to make it easier to use https://github.com/api-platform/api-platform.  
 > **We are not associated with api-platform in any way.**  
 
